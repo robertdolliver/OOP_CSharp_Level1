@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADOdotNET", "ADOdotNET\ADOdotNET.csproj", "{C409AC0F-7546-4F84-AA8F-9A84D0BE2F48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C409AC0F-7546-4F84-AA8F-9A84D0BE2F48}.Debug|x86.ActiveCfg = Debug|x86
+		{C409AC0F-7546-4F84-AA8F-9A84D0BE2F48}.Debug|x86.Build.0 = Debug|x86
+		{C409AC0F-7546-4F84-AA8F-9A84D0BE2F48}.Release|x86.ActiveCfg = Release|x86
+		{C409AC0F-7546-4F84-AA8F-9A84D0BE2F48}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
